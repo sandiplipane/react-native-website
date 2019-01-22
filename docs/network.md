@@ -3,7 +3,7 @@ id: network
 title: Networking
 ---
 
-Many mobile apps need to load resources from a remote URL. You may want to make a POST request to a REST API, or you may simply need to fetch a chunk of static content from another server.
+Many mobile apps need to load resources from a remote URL. You may want to make a POST request to a REST API or you may simply need to fetch a chunk of static content from another server.
 
 ## Using Fetch
 
